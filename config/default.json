@@ -1,0 +1,23 @@
+
+{
+    "test_token_name" : "Adrin",
+    "test_token_symbol" : "ADR",
+    "test_token_decimal" : "18",
+    "test_token_total_supply" : "200000000",
+    "test_token_owner" : "0x6A839d9fc314f5b8f9D849916BA898c1590A003D",
+    
+    "agreement_token_name" : "Adrin1",
+    "agreement_token_symbol" : "ADR1",
+    "agreement_token_decimal" : "18",
+    "agreement_token_total_supply" : "50000",
+    "agreement_quorum" : "2",
+    "agreement_voters" : ["0x6A839d9fc314f5b8f9D849916BA898c1590A003D","0xaC074051e6bf884682655Cc4f450A3c3312Dddbd"],
+    "agreement_max_delay" : "1",
+    "agreement_min_lock_duration" : "2",
+    
+    "stable_token_name" : "Adrin",
+    "stable_token_symbol" : "ADR",
+    "stable_token_decimal" : "18",
+    "stable_token_total_supply" : "200000000",
+    "stable_token_owner" : "0x6A839d9fc314f5b8f9D849916BA898c1590A003D"
+}
